@@ -1,6 +1,6 @@
 {
   "name": "json-over-tcp",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "send/receive JSON data over tcp socket.",
   "main": "index.js",
   "scripts": {
